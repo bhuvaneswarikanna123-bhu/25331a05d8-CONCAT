@@ -3,6 +3,7 @@
 int main(){
 char str1 [100],str2 [100];
 int i=0,j=0;
+printf("_25331a05d8_\n");
 printf("enter first string:");
 scanf( "%s",str1);
 printf("enter second string:");
